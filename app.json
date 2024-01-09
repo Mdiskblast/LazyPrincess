@@ -19,23 +19,23 @@
     "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6410125139:AAHf5SMqpx_3ncZP8yE35GG7GkYXGLBELWg",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "29732337",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "27c900a8bac51da6d0fd91aad09ef779",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "mdisk_blastt",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "Capta1_n",
             "required": true
         },
         "PICS": {
@@ -43,23 +43,23 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1002028306356",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "required": false
+            "description": "capta1_n SnapDemon117",
+            "required": true
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "-1001429184006",
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com.",
+            "description": "mongodb+srv://myprincess:myprincess@cluster0.w9kkh5n.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "mongoDB Database name.",
+            "description": "Cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
@@ -72,7 +72,7 @@
             "required": false
         },
         "WORKERS": {
-            "description": "Number of workers that is to be assigned. Read the readme for more info about this var",
+            "description": "100",
             "required": false
         },
         "PORT": {
