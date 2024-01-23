@@ -19,7 +19,7 @@
     "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
-            "description": "6410125139:AAHf5SMqpx_3ncZP8yE35GG7GkYXGLBELWg",
+            "description": "6881137760:AAGD5NmTtpHMi4Sw35zvyrypCEH0aYED6Iw",
             "required": true
         },
         "API_ID": {
@@ -35,7 +35,7 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Capta1_n",
+            "description": "Precious_Hear1",
             "required": true
         },
         "PICS": {
@@ -47,11 +47,11 @@
             "required": true
         },
         "AUTH_USERS": {
-            "description": "capta1_n SnapDemon117",
+            "description": "Precious_Hear1 SnapDemon117",
             "required": true
         },
         "AUTH_CHANNEL": {
-            "description": "-1001429184006",
+            "description": "-1001849794676",
             "required": false
         },
         "DATABASE_URI": {
